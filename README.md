@@ -155,7 +155,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitachowdhury&hide_border=false&border_radius=12&background=030712&ring=06B6D4&fire=0EA5E9&currStreakLabel=06B6D4&sideLabels=38BDF8&stroke=0EA5E9&dates=67E8F9" alt="Commit Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitachowdhury&hide_border=false&border_radius=12&background=030712&ring=06B6D4&fire=0EA5E9&currStreakLabel=06B6D4&currStreakNum=F8FAFC&sideNums=E2E8F0&sideLabels=38BDF8&stroke=0EA5E9&dates=67E8F9" alt="Commit Streak"/>
 </div>
 
 <br/>
