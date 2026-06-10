@@ -64,23 +64,17 @@ B.Tech Computer Science (AI/ML) student with a strong interest in Artificial Int
 
 ---
 
-## GitHub Stats
-
+<h2 align="center">📈 GitHub Stats</h2>
+<br>
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ishitachowdhury&show_icons=true&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&border_color=21262d&cache_seconds=1800"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitachowdhury&layout=compact&langs_count=8&border_radius=8&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9&border_color=21262d&cache_seconds=1800"/>
-
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishitachowdhury&theme=tokyonight"/>
+<br>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishitachowdhury&theme=tokyonight"/>
+<br>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishitachowdhury&theme=radical"/>
+<br>
+<img height="160em" src="https://streak-stats.demolab.com?user=ishitachowdhury&theme=radical"/>
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ishitachowdhury&hide_border=false&border_radius=8&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=8b949e&stroke=21262d&dates=8b949e" alt="Contribution Streak"/>
-
-</div>
-
----
 
 ## Competitive Programming
 
