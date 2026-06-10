@@ -69,7 +69,7 @@ B.Tech Computer Science (AI/ML) student with a strong interest in Artificial Int
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ishitachowdhury&show_icons=true&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&border_color=21262d&cache_seconds=1800"/>
-&nbsp;
+
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitachowdhury&layout=compact&langs_count=8&border_radius=8&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9&border_color=21262d&cache_seconds=1800"/>
 
 </div>
